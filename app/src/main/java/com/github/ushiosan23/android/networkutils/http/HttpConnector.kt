@@ -9,7 +9,7 @@ import com.android.volley.toolbox.Volley
  *
  * This object is used to manage basic http methods
  */
-internal object HttpConnector {
+object HttpConnector {
 
     /* ---------------------------------------------------------
      *
