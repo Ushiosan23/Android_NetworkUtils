@@ -1,4 +1,4 @@
 # AUTHORS
 
 
-- (Ushiosan23)[https://github.com/Ushiosan23]
+- [Ushiosan23](https://github.com/Ushiosan23)
